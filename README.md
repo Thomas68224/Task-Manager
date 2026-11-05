@@ -49,7 +49,7 @@ def timer(task, remind_time, time)
 
 # Чек лист
 
-<input type="checkbox" name="Ничего" value="xxxx" checked="checked">
-<input type="checkbox" name="README" value="xxxx" checked="checked">
-<input type="checkbox" name="Программа" value="xxxx" checked="">
-<input type="checkbox" name="Деньги" value="xxxx" checked="">
+- [x] Ничего
+- [x] Крутой README
+- [ ] Приложение
+- [ ] Деньги
